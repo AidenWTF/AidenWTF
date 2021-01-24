@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on csgolvlbot
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: <a rel="me" href="https://autisten.club/@aiden">Mastodon</a>
