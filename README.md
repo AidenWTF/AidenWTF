@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-# - 📫 How to reach me **https://chaos.social/@aiden**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
